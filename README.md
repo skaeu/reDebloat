@@ -1,2 +1,2 @@
-# redebloat
-Re:Debloat - Script to Fix Errors after Debloat
+# re:Debloat
+re:Debloat - Script to Fix Errors after Debloat
